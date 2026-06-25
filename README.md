@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=software-engineer-roadmaps&utm_content=banner"><img src="./assets/banner.svg" alt="ResuMax Tech Career Roadmaps" width="100%"></a>
+  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=software-engineer-roadmaps&utm_content=banner"><img src="./assets/banner.png" alt="ResuMax Tech Career Roadmaps" width="100%"></a>
 </div>
 
 # Software Engineer Roadmaps
